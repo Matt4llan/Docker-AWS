@@ -1,4 +1,4 @@
-# Install Docker and create containers
+# Docker on Linux for AWS
 
 ## Objective
 
